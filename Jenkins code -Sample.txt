@@ -1,0 +1,15 @@
+public class Jenkinspush {
+
+public static void main (String[]args){
+
+System.out.println("Hello Mohan");
+
+System.out.println("Hello Naresh");
+
+System.out.println("Hello Gowtham");
+
+
+
+}
+
+}
